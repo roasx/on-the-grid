@@ -1,7 +1,13 @@
 /* styles.css */
 
+.gentium-plus-regular {
+  font-family: "Gentium Plus", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 * {
-	font-family: Arial;
+	font-family: "Gentium Plus", serif;
 }
 
 :root {

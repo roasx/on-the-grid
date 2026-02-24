@@ -3,3 +3,12 @@
 * {
 	font-family: Arial;
 }
+
+:root {
+	/* CSS HEX */
+	--lilac: #c398bcff;
+	--wisteria: #c1aeeaff;
+	--powder-blue: #a7b8ddff;
+	--columbia-blue: #b7d0e1ff;
+	--flax: #f9f19fff;
+}
